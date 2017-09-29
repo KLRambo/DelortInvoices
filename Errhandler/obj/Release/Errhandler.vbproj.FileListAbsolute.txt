@@ -1,0 +1,10 @@
+C:\Kevin\DelortInvoices\Errhandler\bin\Errhandler.dll
+C:\Kevin\DelortInvoices\Errhandler\bin\Errhandler.xml
+C:\Kevin\DelortInvoices\Errhandler\obj\Release\ResolveAssemblyReference.cache
+C:\Kevin\DelortInvoices\Errhandler\obj\Release\Errhandler.dll
+C:\Kevin\DelortInvoices\Errhandler\obj\Release\Errhandler.xml
+C:\DelortInvoices\Errhandler\bin\Errhandler.dll
+C:\DelortInvoices\Errhandler\bin\Errhandler.xml
+C:\DelortInvoices\Errhandler\obj\Release\Errhandler.vbprojResolveAssemblyReference.cache
+C:\DelortInvoices\Errhandler\obj\Release\Errhandler.dll
+C:\DelortInvoices\Errhandler\obj\Release\Errhandler.xml

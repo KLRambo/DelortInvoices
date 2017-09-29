@@ -1,0 +1,137 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DelortInvoices
+</name>
+</assembly>
+<members>
+<member name="T:DelortInvoices.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DelortInvoices.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DelortInvoices.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSet.MaterialsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSet.MaterialsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSet.MaterialsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSetTableAdapters.MaterialsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DelortInvoices.InvoicesDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DelortInvoices.InvoicesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DelortInvoices.InvoicesDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager.UpdateAll(DelortInvoices.InvoicesDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:DelortInvoices.InvoicesDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:DelortInvoices.MaterialRptDS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DelortInvoices.MaterialRptDS.MaterialLinesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DelortInvoices.MaterialRptDS.MaterialLinesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DelortInvoices.MaterialRptDS.MaterialLinesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:DelortInvoices.MaterialsRpt.SetReportParameters">
+ <summary>
+ This code not being used, just for future reference
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:DelortInvoices.MatRptDates">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:DelortInvoices.MatRptDates.DatesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:DelortInvoices.MatRptDates.DatesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:DelortInvoices.MatRptDates.DatesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

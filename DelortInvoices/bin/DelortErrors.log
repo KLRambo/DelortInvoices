@@ -1,0 +1,1369 @@
+
+Log Entry : 1:25:12 PM Thursday, November 05, 2009
+A relation already exists for these child columns. ---    at System.Data.DataRelationCollection.Add(DataRelation relation)
+   at DelortBusObjects.Check.GetCustomersWithChecks(String FromDate, String ToDate) in C:\Kevin\DelortInvoices\DelortBusObjects\Check.vb:line 257
+   at DelortInvoices.frmAddCheck.frmAddCheck_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmAddCheck.vb:line 258
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 959
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 932
+-------------------------------
+
+Log Entry : 1:27:06 PM Thursday, November 05, 2009
+Error creating window handle. ---    at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 959
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 932
+-------------------------------
+
+Log Entry : 1:27:51 PM Thursday, November 05, 2009
+Error creating window handle. ---    at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 959
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 932
+-------------------------------
+
+Log Entry : 1:29:45 PM Thursday, November 05, 2009
+A relation already exists for these child columns. ---    at System.Data.DataRelationCollection.Add(DataRelation relation)
+   at DelortBusObjects.Check.GetCustomersWithChecks(String FromDate, String ToDate) in C:\Kevin\DelortInvoices\DelortBusObjects\Check.vb:line 257
+   at DelortInvoices.frmAddCheck.frmAddCheck_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmAddCheck.vb:line 296
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 959
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 932
+-------------------------------
+
+Log Entry : 1:33:06 PM Thursday, November 05, 2009
+Cannot find table 0. ---    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DelortBusObjects.Check.GetCustomersWithChecks(String FromDate, String ToDate) in C:\Kevin\DelortInvoices\DelortBusObjects\Check.vb:line 255
+   at DelortInvoices.frmAddCheck.frmAddCheck_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmAddCheck.vb:line 296
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 959
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 932
+-------------------------------
+
+Log Entry : 1:59:41 PM Thursday, November 05, 2009
+Error creating window handle. ---    at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 960
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 934
+-------------------------------
+
+Log Entry : 8:40:12 PM Thursday, November 05, 2009
+ ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(Int32 hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillFromCommand(Object data, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at AccessUtils.Utils.GetDatasetWithMultipleTables(String Connstr, String[] SQL, NameValueCollection[] ParamsAll, DataSet ds) in C:\Kevin\DelortInvoices\AccessUtils\Utils.vb:line 134
+   at DelortBusObjects.Check.GetCustomersWithChecks(String FromDate, String ToDate) in C:\Kevin\DelortInvoices\DelortBusObjects\Check.vb:line 254
+   at DelortInvoices.frmViewChecks.frmViewChecks_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewChecks.vb:line 103
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 966
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 940
+-------------------------------
+
+Log Entry : 8:28:03 AM Friday, November 06, 2009
+ ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(Int32 hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillFromCommand(Object data, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at AccessUtils.Utils.GetDatasetWithMultipleTables(String Connstr, String[] SQL, NameValueCollection[] ParamsAll, DataSet ds) in C:\Kevin\DelortInvoices\AccessUtils\Utils.vb:line 134
+   at DelortBusObjects.Check.GetCustomersWithChecks(String FromDate, String ToDate) in C:\Kevin\DelortInvoices\DelortBusObjects\Check.vb:line 254
+   at DelortInvoices.frmViewChecks.frmViewChecks_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewChecks.vb:line 103
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 966
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 940
+-------------------------------
+
+Log Entry : 8:31:07 AM Friday, November 06, 2009
+ ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(Int32 hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillFromCommand(Object data, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at AccessUtils.Utils.GetDatasetWithMultipleTables(String Connstr, String[] SQL, NameValueCollection[] ParamsAll, DataSet ds) in C:\Kevin\DelortInvoices\AccessUtils\Utils.vb:line 134
+   at DelortBusObjects.Check.GetCustomersWithChecks(String FromDate, String ToDate) in C:\Kevin\DelortInvoices\DelortBusObjects\Check.vb:line 254
+   at DelortInvoices.frmViewChecks.frmViewChecks_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewChecks.vb:line 103
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 966
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 940
+-------------------------------
+
+Log Entry : 12:45:53 PM Friday, November 06, 2009
+Value cannot be null.
+Parameter name: key ---    at System.Windows.Forms.CurrencyManager.Find(PropertyDescriptor property, Object key, Boolean keepIndex)
+   at System.Windows.Forms.ListControl.set_SelectedValue(Object value)
+   at DelortInvoices.frmAddCheck.frmAddCheck_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmAddCheck.vb:line 278
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.set_Visible(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 966
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 938
+-------------------------------
+
+Log Entry : 11:44:46 AM Tuesday, November 10, 2009
+Object cannot be cast from DBNull to other types. ---    at System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 427
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 406
+-------------------------------
+
+Log Entry : 11:46:28 AM Tuesday, November 10, 2009
+Object cannot be cast from DBNull to other types. ---    at System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 427
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 406
+-------------------------------
+
+Log Entry : 11:47:23 AM Tuesday, November 10, 2009
+Object cannot be cast from DBNull to other types. ---    at System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 427
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 406
+-------------------------------
+
+Log Entry : 12:03:50 PM Tuesday, November 10, 2009
+Object cannot be cast from DBNull to other types. ---    at System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 427
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 406
+-------------------------------
+
+Log Entry : 12:07:00 PM Tuesday, November 10, 2009
+Object cannot be cast from DBNull to other types. ---    at System.DBNull.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 427
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 406
+-------------------------------
+
+Log Entry : 6:47:46 PM Wednesday, November 18, 2009
+File or assembly name DelortBusObjects, or one of its dependencies, was not found. ---    at DelortInvoices.frmViewChecks..ctor()
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 949
+-------------------------------
+
+Log Entry : 4:19:02 PM Saturday, July 16, 2011
+Object reference not set to an instance of an object. ---    at DelortInvoices.frmCustomerInvoices.OpenEntity() in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 592
+   at DelortInvoices.frmCustomerInvoices.btnOpen_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 399
+-------------------------------
+
+Log Entry : 4:52:05 PM Saturday, July 16, 2011
+No Valid Line Items To Print ---    at DelortInvoices.Utilities.PrintInvoice(Invoice Inv) in C:\Kevin\DelortInvoices\DelortInvoices\Utilities.vb:line 357
+   at DelortInvoices.frmEditInvoice.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmEditInvoice.vb:line 1246
+-------------------------------
+
+Log Entry : 1:37:34 PM Saturday, July 23, 2011
+'C:\Kevin\DelortInvoices\DelortInvoices\bin\bin\Invoices.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. ---    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.MaterialsDataSetTableAdapters.MaterialsTableAdapter.Fill(MaterialsDataTable dataTable) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsDataSet.Designer.vb:line 852
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 5
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 1:43:15 PM Saturday, July 23, 2011
+'C:\Kevin\DelortInvoices\DelortInvoices\bin\bin\Invoices.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. ---    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.MaterialsDataSetTableAdapters.MaterialsTableAdapter.Fill(MaterialsDataTable dataTable) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsDataSet.Designer.vb:line 852
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 5
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 1:57:59 PM Saturday, July 23, 2011
+'C:\Kevin\DelortInvoices\DelortInvoices\bin\bin\Invoices.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. ---    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.InvoicesDataSetTableAdapters.MaterialsTableAdapter.Fill(MaterialsDataTable dataTable) in C:\Kevin\DelortInvoices\DelortInvoices\InvoicesDataSet.Designer.vb:line 852
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 5
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 2:01:10 PM Saturday, July 23, 2011
+'C:\Kevin\DelortInvoices\DelortInvoices\bin\bin\Invoices.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. ---    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.InvoicesDataSetTableAdapters.MaterialsTableAdapter.Fill(MaterialsDataTable dataTable) in C:\Kevin\DelortInvoices\DelortInvoices\InvoicesDataSet.Designer.vb:line 852
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 5
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 2:15:21 PM Saturday, July 23, 2011
+'C:\Kevin\DelortInvoices\DelortInvoices\bin\bin\Invoices.mdb' is not a valid path.  Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides. ---    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup)
+   at System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   at System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.InvoicesDataSetTableAdapters.MaterialsTableAdapter.Fill(MaterialsDataTable dataTable) in C:\Kevin\DelortInvoices\DelortInvoices\InvoicesDataSet.Designer.vb:line 853
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 5
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 2:17:19 PM Saturday, July 23, 2011
+Syntax error (missing operator) in query expression 'DatePurchased BETWEEN @ FromDate AND @ ToDate'. ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.InvoicesDataSetTableAdapters.MaterialsTableAdapter.Fill(MaterialsDataTable dataTable) in C:\Kevin\DelortInvoices\DelortInvoices\InvoicesDataSet.Designer.vb:line 853
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 5
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 2:36:43 PM Saturday, July 23, 2011
+The SelectCommand property has not been initialized before calling 'Fill'. ---    at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 15
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 2:40:40 PM Saturday, July 23, 2011
+The SelectCommand property has not been initialized before calling 'Fill'. ---    at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 16
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 6:19:35 PM Monday, July 25, 2011
+Fill: SelectCommand.Connection property has not been initialized. ---    at System.Data.Common.DbDataAdapter.GetConnection3(DbDataAdapter adapter, IDbCommand command, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 23
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 6:20:32 PM Monday, July 25, 2011
+Cannot find table 1. ---    at System.Data.DataTableCollection.get_Item(Int32 index)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e)
+-------------------------------
+
+Log Entry : 6:29:52 PM Monday, July 25, 2011
+The Microsoft Jet database engine cannot find the input table or query 'MaterialsFROM'.  Make sure it exists and that its name is spelled correctly. ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at AccessUtils.Utils.GetDataSet(String Connstr, String SQL, NameValueCollection Params) in C:\Kevin\DelortInvoices\AccessUtils\Utils.vb:line 82
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 34
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.btnPrint_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 801
+-------------------------------
+
+Log Entry : 1:19:35 PM Thursday, July 28, 2011
+ORDER BY clause (Year) conflicts with DISTINCT. ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at AccessUtils.Utils.GetDataSet(String Connstr, String SQL, NameValueCollection Params) in C:\Kevin\DelortInvoices\AccessUtils\Utils.vb:line 82
+   at DelortInvoices.frmViewMaterials.LoadPrintSummaryYearButtons() in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 909
+   at DelortInvoices.frmViewMaterials.frmViewMaterials_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 874
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 975
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 917
+-------------------------------
+
+Log Entry : 1:20:16 PM Thursday, July 28, 2011
+ORDER BY clause (Years) conflicts with DISTINCT. ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at AccessUtils.Utils.GetDataSet(String Connstr, String SQL, NameValueCollection Params) in C:\Kevin\DelortInvoices\AccessUtils\Utils.vb:line 82
+   at DelortInvoices.frmViewMaterials.LoadPrintSummaryYearButtons() in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 909
+   at DelortInvoices.frmViewMaterials.frmViewMaterials_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 874
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 975
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 917
+-------------------------------
+
+Log Entry : 1:20:54 PM Thursday, July 28, 2011
+The Microsoft Jet database engine does not recognize '0' as a valid field name or expression. ---    at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at AccessUtils.Utils.GetDataSet(String Connstr, String SQL, NameValueCollection Params) in C:\Kevin\DelortInvoices\AccessUtils\Utils.vb:line 82
+   at DelortInvoices.frmViewMaterials.LoadPrintSummaryYearButtons() in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 909
+   at DelortInvoices.frmViewMaterials.frmViewMaterials_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 874
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 975
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 917
+-------------------------------
+
+Log Entry : 1:36:36 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 40
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 1:38:12 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at Microsoft.Reporting.WinForms.Report.SetParameters(ReportParameter parameter)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 40
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 1:39:30 PM Thursday, July 28, 2011
+The source of the report definition has not been specified ---    at Microsoft.Reporting.WinForms.ServerReport.EnsureExecutionSession()
+   at Microsoft.Reporting.WinForms.ServerReport.SetParameters(IEnumerable`1 parameters)
+   at Microsoft.Reporting.WinForms.Report.SetParameters(ReportParameter parameter)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 40
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 1:43:17 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e)
+-------------------------------
+
+Log Entry : 1:45:29 PM Thursday, July 28, 2011
+Object reference not set to an instance of an object. ---    at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 37
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 1:48:36 PM Thursday, July 28, 2011
+Value cannot be null.
+Parameter name: reportParameters ---    at Microsoft.Reporting.WinForms.ReportParameter.ToNameValueCollection(IEnumerable`1 reportParameters)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 43
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 1:49:01 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e)
+-------------------------------
+
+Log Entry : 1:55:45 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 44
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 2:14:32 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 46
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 2:14:48 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 46
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 2:17:03 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 48
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 2:22:59 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 49
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 2:26:57 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 43
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 2:34:07 PM Thursday, July 28, 2011
+An error occurred during local report processing. ---    at Microsoft.Reporting.WinForms.LocalReport.InternalGetReportParameters(CatalogItemContextBase reportContext, NameValueCollection userSpecifiedValues, ParameterInfoCollection baseLineParameters, DatasourceCredentialsCollection credentials, ReportRuntimeSetup reportRuntimeSetup)
+   at Microsoft.Reporting.WinForms.LocalReport.SetParameters(IEnumerable`1 parameters)
+   at DelortInvoices.MaterialsRpt.SetReportParameters()
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e)
+-------------------------------
+
+Log Entry : 2:51:03 PM Thursday, July 28, 2011
+There is no row at position 0. ---    at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at DelortInvoices.MaterialsRpt.MaterialsRpt_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\MaterialsRpt.vb:line 28
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmViewMaterials.tsPrintItemized_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 860
+-------------------------------
+
+Log Entry : 10:25:04 AM Friday, July 29, 2011
+Form that was specified to be the MdiParent for this form is not an MdiContainer.
+Parameter name: value ---    at System.Windows.Forms.Form.set_MdiParentInternal(Form value)
+   at System.Windows.Forms.Form.set_MdiParent(Form value)
+   at DelortInvoices.Utilities.ViewAddMaterials(Form& MdiForm) in C:\Kevin\DelortInvoices\DelortInvoices\Utilities.vb:line 789
+   at DelortInvoices.frmViewMaterials.tsAdd_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 803
+-------------------------------
+
+Log Entry : 10:57:02 AM Friday, July 29, 2011
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. ---    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Windows.Forms.DateTimePicker.set_Text(String value)
+   at DelortInvoices.frmViewMaterials.frmViewMaterials_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 705
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 975
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 917
+-------------------------------
+
+Log Entry : 10:58:12 AM Friday, July 29, 2011
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. ---    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Windows.Forms.DateTimePicker.set_Text(String value)
+   at DelortInvoices.frmViewMaterials.frmViewMaterials_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm)
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e)
+-------------------------------
+
+Log Entry : 11:13:17 AM Friday, July 29, 2011
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. ---    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Windows.Forms.DateTimePicker.set_Text(String value)
+   at System.Windows.Forms.ToolStripControlHost.set_Text(String value)
+   at DelortInvoices.frmViewMaterials.frmViewMaterials_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 713
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 975
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 917
+-------------------------------
+
+Log Entry : 11:14:01 AM Friday, July 29, 2011
+The string was not recognized as a valid DateTime. There is an unknown word starting at index 0. ---    at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Windows.Forms.DateTimePicker.set_Text(String value)
+   at System.Windows.Forms.ToolStripControlHost.set_Text(String value)
+   at DelortInvoices.frmViewMaterials.frmViewMaterials_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmViewMaterials.vb:line 713
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 975
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 917
+-------------------------------
+
+Log Entry : 12:59:22 PM Monday, August 01, 2011
+InvalidArgument=Value of '14' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex ---    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 12:59:31 PM Monday, August 01, 2011
+InvalidArgument=Value of '14' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex ---    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 12:59:58 PM Monday, August 01, 2011
+InvalidArgument=Value of '14' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex ---    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 1:04:05 PM Monday, August 01, 2011
+InvalidArgument=Value of '14' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex ---    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 1:04:31 PM Monday, August 01, 2011
+InvalidArgument=Value of '14' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex ---    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 1:05:15 PM Monday, August 01, 2011
+InvalidArgument=Value of '14' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex ---    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 1:20:59 PM Monday, August 01, 2011
+InvalidArgument=Value of '14' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex ---    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 1:31:14 PM Monday, August 01, 2011
+Unable to cast object of type 'System.Data.DataRowView' to type 'Infragistics.Win.ValueListItem'. ---    at DelortInvoices.frmMiscExpAdd.setTypeCombo(Int32 TypeID) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 493
+   at DelortInvoices.frmMiscExpAdd.LoadData() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 441
+   at DelortInvoices.frmMiscExpAdd.frmMiscExpAdd_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpAdd.vb:line 410
+-------------------------------
+
+Log Entry : 8:24:18 AM Tuesday, August 02, 2011
+Object reference not set to an instance of an object. ---    at DelortInvoices.frmMiscExpRpt.TallyReport() in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpRpt.vb:line 525
+   at DelortInvoices.frmMiscExpRpt.dgExps_DataSourceChanged(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmMiscExpRpt.vb:line 620
+-------------------------------
+
+Log Entry : 8:35:41 AM Wednesday, November 09, 2011
+Could not load file or assembly 'TDS, Version=1.0.4232.31906, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified. ---    at DelortBusObjects.CustomerReport.GetCustomersWithInvoices(String FromDate, String ToDate)
+   at DelortInvoices.frmCustomerInvoices.GetCustomersInvoices() in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 437
+   at DelortInvoices.frmCustomerInvoices.frmCustomerInvoices_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 428
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 1053
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 1021
+-------------------------------
+
+Log Entry : 8:36:49 AM Wednesday, November 09, 2011
+Could not load file or assembly 'TDS, Version=1.0.4232.31906, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified. ---    at DelortBusObjects.CustomerReport.GetCustomersWithInvoices(String FromDate, String ToDate)
+   at DelortInvoices.frmCustomerInvoices.GetCustomersInvoices() in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 437
+   at DelortInvoices.frmCustomerInvoices.frmCustomerInvoices_Load(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 428
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.IntCreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.UnsafeNativeMethods.CreateWindowEx(Int32 dwExStyle, String lpszClassName, String lpszWindowName, Int32 style, Int32 x, Int32 y, Int32 width, Int32 height, HandleRef hWndParent, HandleRef hMenu, HandleRef hInst, Object pvParam)
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Control.Show()
+   at DelortInvoices.frmMain.ManageForms(Form frm) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 1053
+   at DelortInvoices.frmMain.uLstBar_ItemSelected(Object sender, ItemEventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\Main.vb:line 1021
+-------------------------------
+
+Log Entry : 8:38:05 AM Wednesday, November 09, 2011
+Could not load file or assembly 'TDS, Version=1.0.4232.31906, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified. ---    at DelortBusObjects.CustomerReport.GetCustomersWithInvoices(String FromDate, String ToDate)
+   at DelortInvoices.frmCustomerInvoices.GetCustomersInvoices() in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 437
+   at DelortInvoices.frmCustomerInvoices.RefreshReport() in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 517
+   at DelortInvoices.frmCustomerInvoices.btnRefresh_Click(Object sender, EventArgs e) in C:\Kevin\DelortInvoices\DelortInvoices\frmCustomerInvoices.vb:line 536
+-------------------------------

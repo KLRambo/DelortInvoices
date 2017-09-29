@@ -1,0 +1,35 @@
+                    ****** Misc Expenses Summary Report *****
+
+                         Between Dates 1/1/2009 And 12/31/2009
+
+
+
+Category                      Total                    
+--------                      -------                  
+
+Medical-Dental             $1,385.76
+
+Insurance                  $5,127.34
+
+Mileage                    $4,307.40
+
+Phone                      $1,257.27
+
+College                    $5,000.00
+
+Misc                          $30.41
+
+Rent                      $14,400.00
+
+taxes                      $1,228.00
+
+advertising                  $218.36
+
+annual report                $175.00
+
+truck repairs                $553.32
+
+
+
+
+              Grand Total: $33,682.86

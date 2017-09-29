@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TDS
+</name>
+</assembly>
+<members>
+<member name="T:TDS.CustChecks">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TDS.CustChecks.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TDS.CustChecks.CheckLedgerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TDS.CustChecks.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TDS.CustChecks.CheckLedgerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TDS.CustChecks.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TDS.CustChecks.CheckLedgerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TDS.CusInv">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TDS.CusInv.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TDS.CusInv.InvoicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TDS.CusInv.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TDS.CusInv.InvoicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TDS.CusInv.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TDS.CusInv.InvoicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

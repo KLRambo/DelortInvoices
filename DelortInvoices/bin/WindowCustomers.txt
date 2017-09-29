@@ -1,0 +1,387 @@
+Name                     Address                  Phone          Price  Spring Fall   Notes               
+----                     -------                  -----          -----  ------ ----   -----
+
+Abbott, Beverly          13925 Tamarack           372-0418       $135     X     X                
+Acton, Sara              13812 Ironwood           293-1205       $150     X     X                
+Adams, Gladys            21013 Walnut             886-4083       $85      X     X                
+Agos, Karen              3809 Squires Mill Rd.    267-3541       $200    pressure w
+Ahern, Diane             20994 Olive              886-6693       $135              
+Alicz, John              13229 Orchid             293-3105       $85               
+Amerson, Jeanine         21124 Walnut             372-0873       $110              
+Ames, Jeanette           13841-A Balsam           372-9912       $60      X     X                
+Anderson, Dolores        13636 Redbud             293-0851       $85               
+Anderson, Jane           225 Grant Ave            630-323-3026   $135    Charge Mor
+Andreas, Betty           20921 Blossom            886-6848       $60      X     X                
+Angelucci, Anthony       21308 Juniper            407-1628       $135              
+Avant, Pat               21429 Douglas            886-1446       $60      X     X                
+Avramovic, Lotte         21417 Sycamore           886-1723       $60               
+Bailey, Eleanor          21301 Juniper            372-1497       $85               
+Barry, Ron               13751 Redbud             372-3756       $85      X     X                
+Bartos, Dolores          20916 Blossom            293-0977       $85               
+Batio, Jane              13743 Hickory                           $85               
+Beaman, Gloria           13497 Tall Pines         372-2682       $150              
+Becker, Dorothy          21508 Chestnut           372-0255       $135     X     X                
+Belford, Joan            21429 Larch              372-0760       $135     X     X                
+Belokin, Marge           13906 Bristlecone        372-9003       $60      X     X                
+Belokin, Phyllis         21318 Crimson            372-1923       $60      X     X                
+Benes, Carmen            13485 Mulberry           886-1814       $150              
+Berbas, Therese          20947 Snowberry          886-6176       $135              
+Bialczak, Victor         21308 Redwood            293-2310       $150              
+Bianchin, Marlene        21456 Larch              293-2109       $135              
+Bieniek, Dolores         21315 Crimson            372-1984       $110     X     X                
+Bizer, Roland            21649 Larch              293-0821       $110              
+Bogusz, Gene             21325 Crimson            372-1125       $60      X                      
+Bosman, Otto             21658 Tamarack           886-1580       $135              
+Boswell, Mr./Mrs.        21421 Juniper            886-1950       $135              
+Boudreau, Valeria        21013 Braxton            815-407-0274   $60               
+Boyce, Rose Ann          21414 Basswood           293-3060       $135     X     X                
+Breuss, Kathleen         21565 Larch              815-293-3556   $135              
+Brown, Bobby             21131 Walnut             372-3331       $105     X     X                
+Buck, Richard            21462 Chestnut           372-1368       $135              
+Budo, Mr./Mrs.           21457 Chestnut           293-2166       $110              
+Burns, Dolores           21405 Douglas            886-4883       $60      X     X                
+Butcher, Arline          21311 Hidden Lake Court  725-0576       $110              
+Buttner, Anita           21050 Aspen              407-0532       $60               
+Bykowski, Sylvia         21659 Tamarack           372-3211       $135              
+Calcin, Katy             13653 Redbud             886-0721       $85      X                      
+Campbell, Craig          21441 Sycamore           293-1014       $110              
+Carter, Glenna           20810 Torrey Pines Lane  886-0336       $85               
+Castillo, Elena          14013 Tamarack           372-1611       $85               
+Catalano, Nancy          13762 Ironwood           407-0183       $110              
+Catania, Marianne        21313 Conifer            372-0241       $85               
+Catena, Jean             21431 Juniper            372-0374       $85               
+Chodor, Delores          13632 Redbud             886-3339       $85               
+Christenson, Mr/Mrs      21136 Cypress            293-2809       $60               
+Clore, Constance         21501 Juniper            372-0636       $85               
+Cochrane, David          13244 Bayberry           372-8973       $135              
+Cohrs, Dorothy           21108 Walnut             372-0608       $85      X     X                
+Colbert, Judy            21635 Tamarack           293-2068       $110              
+Connolly, Kitty          21306 Redwood            815-372-3055   $135              
+Conradi, Bob             21664 Tamarack           815-372-0936   $135              
+Costa, Joanne            20920 Snowberry          407-1985       $70               
+Crawford, Guinevere      21010 Hazelnut           886-6060       $110              
+Creslenzo, Sharon        13725 Tamarack           372-1945       $135              
+Curcio, Marlene          21611 Larch              407-1387       $110              
+Curtis, Beverly          13160 Carlisle           372-2666       $60               
+Dahmer, Rosemary         13241 Bayberry           815-372-0982   $85               
+Damato, Barb             21511 Empress            372-9313       $60               
+Danis, Carol             20837 Periwinkle         372-2017       $85               
+De Haan, Robert          21427 Basswood           293-3094       $255              
+Delany, Ernestine        21461 Juniper            372-0472       $60               
+Derbas, Therese          20947 Snowberry                         $135              
+Di Giovanni, Sharon      21357 Basswood           372-9689       $135              
+Dishman, Ruth            21163 Cypress            372-3510       $85               
+Dismeier, Mary           21341 Juniper            293-2515       $85               
+Dobbs, Barbara           13520 Buckthorn          886-9787       $85               
+Dobes, Dorothy           21354 Sycamore           815-407-1230   $135              
+Dockstader, Russell      20816 Honeysuckle        407-0132       $85               
+Dolan, Cyril & Alice     13455 Silverleaf         815-372-2901   $110              
+Donar, Don               21107 Cypress            886-8788       $200              
+Donlan, Martha           13817 Magnolia           372-3092       $85      X                      
+Dosher, Marty            21129 Buckeye            372-1872       $110              
+Downes, Mr./Mrs.         21452 Larch              293-1452       $135              
+Drabik, Eileen & Walter  13624 Redbud Ct.         886-8668       $135    plastic po
+Dubbs, Rita              21419 Basswood           886-0115       $135     X     X                
+Duffy, Maggie            21020 Snowberry          886-5492       $60      X     X                
+Dunlap, Joan             21332 Redwood            372-9918       $135     X     X                
+Dykema, Beverly          21400 Juniper                           $85               
+Early, Roberta           13760 Hickory            815-407-1282   $85               
+England, Barbara         21039 Braxton                           $135              
+Esposito, Eleanor        20821 Forsythia          407-0417       $60               
+Falduto, Geri            21712 Empress            372-1904       $85               
+Ferchen, Morry           21444 Larch              407-1448       $135              
+Ferrone, Marie           13427 Tall Pine          372-2792       $85               
+Fiedler, James           21023 Snowberry          293-0113       $85               
+Fiorini, Elaine          21301 Conifer            372-0185       $85               
+Fitch, Dorothy           16106 Seneca Lake Circle 815-577-3466   $135              
+Fitzgerald, Mr./Mrs.     21322 Redwood            293-3738       $150              
+Floyd, Thomas            21317 Conifer            372-0025       $110              
+Foisy, Barb              13729 Magnolia           372-2116       $60               
+Fontana, Alice           21407 Sycamore           407-1933       $65               
+Forsberg, Margaret       13505 Butternut          886-8797       $100     X     X                
+Forsgren, Elaine         21517 Douglas            886-1343       $60      X     X                
+Forster, Mr./Mrs.        21106 Aspen              372-1258       $135     X     X                
+Franczyk, Marryann       21160 Cypress            372-9346       $60               
+Frazier, Patricia        13162 Carlisle           407-0026       $60               
+Fuesz, Charles           13313 Red Cedar          886-5332       $85               
+Funk, Jim                13156 Carlisle           372-3832       $60     porch     
+Furco, Joan              13800 Tamarack           372-3564       $110              
+Gabrys, Alice            21133 Braxton            407-0741       $60               
+Galante, Frances         20835 Peppertree         886-1601       $110              
+Gardner, Joan            20910 Blossom            293-0483       $85               
+Gats, Jean               21105 Aspen              372-1216       $85               
+Gatto, Sandy             21509 Juniper            293-2466       $85      X     X                
+Gebe, Elizabeth          21151 Cypress            293-1803       $85               
+Geraghty, Donna          21017 Torrey Pines       886-8647       $135              
+Gerlach, Frances         13303 Red Cedar          372-3594       $85      X                      
+Gill, Melissa            21152 Cypress            407-1105       $110              
+Gill, Patricia           20836 Peppertree         372-3097       $85      X     X                
+Goliszewski, Patsy       21502 Chestnut Lane      815-886-7118   $110              
+Gorniak, Marvin          3807 Squires Mill                       $150              
+Grande, Barbera          13430 Magnolia           293-0154       $85      X     X                
+Greenberg, Florence      13225 Carlisle           293-3061       $60      X     X                
+Greenberg, Lillian       21508 Juniper            407-1254       $85      X     X                
+Grymski, Arlene          13826 Ironwood           372-0082       $135              
+Gustafson, Judy          21653 Tamarack           372-9937       $135              
+Haefner, Darryl          21551 Larch              293-1262       $135              
+Hall, Marianne           21544 Larch              293-2779       $135              
+Hannus, Ruth             20930 Snowberry                         $60               
+Hart, Eileen             21321 Conifer            407-1473       $85               
+Havlick, Eleanor         13231 Orchid             886-4153       $60               
+Healy, Josephine         21337 Conifer            372-0015       $150              
+Hedin, Phyllis           13727 Redbud             372-3948       $85               
+Heffernan, Carol         21037 Aspen              293-3139       $155     X     X                
+Hegemann, Carol          21000 Redberry           886-1449       $135              
+Helfer, Hazel            21626 Larch              815-407-1522   $135              
+Hnaton, Jackie           21366 Juniper            372-1395       $85               
+Hofer, Diane             13229 Carlisle           293-3111       $85      X     X                
+Holpuch, Phyllis         21306 Crimson            293-3341       $60               
+Hromadka, Mr./Mrs.       21062 Braxton            407-0857       $60      X     X                
+Iannone, Tony            21058 Walnut             347-7835       $85               
+Jamrozy, Debra           3814 Squires Mill Road   577-6227       $175              
+Jania, Kay               13436 Magnolia           886-2021       $110              
+Janik, Edward            21263 Brush Lake Drive   729-9744       $60               
+Janke, Nola              13814 Hickory            815-372-1328   $85               
+Jankovsky, Anita         21132 Cypress            886-7922       $85               
+Jenitz, Lorili           13223 Orchid             886-2814       $85               
+Jensen, Colleen          21721 Empress            372-2204       $60               
+Jezek, Wilma             13157 Carlisle           372-9438       $85      X                      
+Jodlowski, Ed            21344 Silktree           886-4557       $85      X     X                
+Johnson, Florence        13508 Buckthorn          815-372-0782   $85               
+Johnson, Jan             21353 Douglas            886-3290       $85               
+Johnson, Marge           21512 Juniper            407-1256       $135     X     X                
+Johnson, Orry            21448 Larch              293-2149       $135     X     X                
+Joritz, Mr./Mrs.         21128 Braxton            407-0361       $85               
+Judge, Debra             6308 Ventura             577-6569       $115              
+Kabza, Elsie             21022 Braxton            407-0513       $60      X     X                
+Kalinowski, Charlotte    21201 Cypress            886-5005       $85               
+Kaminski, Terry          13227 Carlisle           524-3581       $65               
+Kany, Betty              21344 Douglas            293-1126       $60      X     X                
+Karas, Shirley           21154 Cypress            372-0593       $60      X     X                
+Kawarski, Beverly        21416 Juniper            815-407-1326   $60               
+Kelly, Dolly             13512 Buckthorn                         $85               
+Kelly, Gloria            21430 Douglas            407-1764       $60               
+Kelly, Meredith          20927 Blossom            886-8953       $60      X     X                
+Keppner, Judith          21738 Empress            815-886-6962   $60               
+Kinsella, Joanne         21012 Snowberry          293-4015       $60               
+Klavan, Bennett And Doris21425 Douglas            372-3489       $85               
+Klein, John              20933 Snowberry          407-1131       $85               
+Kleinfelder, Jean        21521 Juniper            886-6325       $85      X     X                
+Kneer, Marian            13919 Tamarack           815-372-0532   $135     X     X                
+Knigge, Mary             1871 Portsmouth                         $40               
+Kodman, Jerry            13513 Buckthorn          372-1129       $135     X                      
+Kolasinski, Lorraine     20900 Chinaberry         886-6192       $40      X     X                
+Kolz, James              21104 Walnut             886-0483       $110              
+Kosin, Joe               21520 Larch              407-0529       $135              
+Kosinski, Phyllis        21528 Empress            372-9004       $60      X     X                
+Kostka, Janice           21640 Empress            886-2784       $85      X                      
+Kostrzak, Mel            13505 Buckthorn          886-3832       $60      X     X                
+Koutny, E.               21727 Empress            886-3733       $135              
+Kowalski, Joan           13223 Carlisle           886-2025       $85      X     X                
+Kramer, Louise           21040 Snowberry          293-0455       $60               
+Krol, Gary               12453 Brighton           815-439-5765   $135              
+Kulovitz, Helen          13406 Magnolia           293-0166       $110              
+Kurek, Ann               13826 Tamarack           372-1187       $110              
+Lake, Jay                21550 Larch              372-0017       $135              
+Lang, Dorothy            21411 Basswood           886-5475       $85      X                      
+Larson, Audry            21117 Aspen              886-1720       $135              
+Larson, Grace            13442 Redberry           886-2760       $110              
+Larson, Jean             20934 Snowberry          372-9908       $60      X     X                
+Laue, Jeanne             21462 Larch              407-0350       $150     X     X                
+Lebeck, Dorothy          21556 Larch              293-2214       $110              
+Leggett, Ruth            21342 Sycamore           886-9580       $70      X     X      outsides o
+Legner, Toni             624 Aspen                886-0994       $85               
+Lemerman, Sue            21318 Redwood            407-1135       $150              
+Lenz, Mr./Mrs.           13742 Magnolia           372-2134       $85               
+Leo, Virginia            21110 Braxton            886-9904       $60      X     X                
+Levy, Helen              21404 Douglas            886-3941       $60               
+Lietz, Mr./Mrs.          21119 Walnut             407-1990       $85               
+Ligas, Sophie            20751 Torrey Pines       293-3878       $60      X                      
+Liming, Elizabeth        21350 Basswood           293-2958       $135              
+Liotus, Sue              13412 Magnolia           372-3375       $135              
+Lisching, Ray            21051 Braxton            407-1895       $60               
+Lisowski, Mary           21144 Walnut             407-1274       $135              
+Lodie, Lucy              21001 Redberry           372-3301       $175              
+Lord, Ruth               21137 Braxton            886-9330       $60               
+Lowrey, Neal             21513 Douglas            372-0790       $85               
+Lund, Dorene             13860 Mandarin           372-2023       $110              
+Mack, Pauline            13801 Bristlecone        407-1639       $60               
+Madsen, Marylou          13218 orchid             372-1315       $60               
+Magnuson, Bob            21037 Snowberry          886-6317       $60      X     X                
+Maher, Joann             21025 Snowberry          886-9240       $85               
+Mahl, Mr./Mrs.           13473 Silver Leaf        886-5417       $60               
+Mahoney, Shirley         21060 Aspen              886-4565       $110              
+Malloy, Jack             20911 Snowberry          293-3096       $60      X     X                
+Manna, Sandy             20825 Forsythia          407-0948       $85               
+Martin, Geri             21140 Braxton            815-407-0377   $85               
+Martin, Mary             8501 Bailey Rd                          $40               
+Martin, Rob              21057 Braxton            372-3132       $85      X                      
+Martinez, Ruth           13833 Balsam             293-3411       $60               
+Marzak, Joan             21420 Juniper            372-3290       $85               
+Mashek, Dorothy          21247 Silktree           372-9069       $150              
+Masten, Barbera          21526 Chestnnut          407-0617       $110     X     X                
+Mathews, Patricia        13756 Hickory            886-6942       $85      X     X                
+Mcadams, Dorothy         15425 Gougar Rd.         815-838-0264   $150              
+Mcallivy, Ann            13833 Balsam             293-3247       $60               
+Mccarthy, Marie          21643 Empress            886-4572       $85               
+Mcguire, Sue             21107 Walnut             407-0010       $85      X     X                
+Mclaughlin, Ardeth       13647 Redbud             886-2516       $85               
+Merkes, Maureen          21024 Braxton            372-2971       $60               
+Merrimack, Marge         21362 Sycamore           886-2709       $135              
+Meyer, Mary              21346 Silktree           886-4007       $85               
+Mikosz, Gerry            20913 Snowberry          886-8768       $60               
+Miller, Eleanor          13709 Redbud             372-3779       $85               
+Miller, Ferdinand        13501 Butternut          886-3835       $85               
+Mlady, Joy               13913 Tamarack           886-2119       $135     X     X                
+Mokate, Arlene           21332 Douglas            293-1031       $60      X     X                
+Molek, Agnes             21505 Juniper            372-3802       $60               
+Monhart, Rosemary        21258 Redwood            372-3880       $135              
+Moody, Frances           21520 Juniper            815-372-0684   $85               
+Moore, Anne              21048 Aspen              372-9755       $85               
+Moran, James             21437 Douglas            372-3709       $135              
+Mosher, Jean             21530 Empress            293-3733       $40     wash outsi
+Mosley, Dolores          21402 Basswood           293-0163       $135              
+Mroz, Loretta            13807 Mandarin           372-3212       $65      X     X                
+Mueller, Kenneth         21536 Douglas            407-1385       $110              
+Mullen, Eileen           21300 Juniper            372-0597       $85               
+Mulrooney, Jenny         21511 Basswood           372-1221       $135     X     X                
+Nelson, Pat              21637 Larch              372-1520       $110     X     X                
+Nicklas, Sally           21603 Larch              293-0342       $110     X     X                
+Niemiek, Rosemary        13225 Orchid             886-3361       $60      X     X                
+Novak, Ed                21741 Empress            293-3857       $135              
+Nowicki, Maryann         21320 Conifer            293-0307       $85               
+Nuemann, Mr./Mrs.        21328 Juniper            372-1534       $60      X     X                
+O'connor, Rosemary       21644 Empress            372-9582       $85      X     X                
+Oelrich, Linda           21330 Redwood            886-1783       $140              
+Ohse, Jeanne             20906 Snowberry          293-4912       $60               
+Olson, Jeanne            21143 Walnut             372-0545       $85               
+Olson, Leon              13756 Tamarack           407-1224       $135              
+Osuch, Marie             21417 Douglas                           $60               
+Owens, Margaret          21024 Braxton            372-2971       $60               
+Pabst, Russel            21619 Larch              372-0992       $110              
+Pacini, Claudia          21351 Sycamore           815-886-5428   $135              
+Palella, Elizabeth       21028 Braxton            815-407-0539   $60               
+Paluch, Lillian          21023 Braxton            293-2108       $110              
+Paolini, Theresa         20828 Foxtail            372-2241       $85               
+Papp, Mary               13513 Magnolia           293-4816       $60               
+Pastern, Diane           20932 Snowberry          293-0389       $85               
+Patka, Eileen            21161 Walnut             293-0345       $135              
+Paul, Phyllis            21519 Chestnut           372-1468       $135              
+Pennington, Barbera      21537 Empress            372-3499       $60               
+Pesole, Joseph           14007 Tamarack           372-0733       $135              
+Petratitis, Henrieta     21137 Cypress            293-1707       $85               
+Phebus, Mr./Mrs.         21302 Redwood            372-9226       $135              
+Phillips, Jean           21325 Conifer            372-0501       $85               
+Pieczynski, Carol        20810 Chinaberry         293-2588       $60      X     X                
+Pietryga, Mr./Mrs.       1593 Luddington          577-8175       $110              
+Pinta, Dennis            13508 Redberry           886-9631       $135     X     X                
+Pittman, Gerald          21360 Sycamore           372-0596       $135              
+Prassa, Louise           21257 Crimson            372-0035       $85               
+Princell, Mr./Mrs.       13228 Carlisle           886-8958       $135              
+Provenzano, Mr./Mrs.     13843 Mandarin           372-2342       $110              
+Ptak, Lucille            21443 Larch              407-1535       $40               
+Purcell, Maureen         21562 Larch              815-886-8727   $135              
+Pusateri, Josaphine      21540 Empress            372-9255       $85               
+Putlak, Emily            21034 Snowberry          886-8827       $60      X     X                
+Quinn, Arlene            13309 Red Cedar          886-1622       $85               
+Raatz, Lois              21119 Braxton Lane       815-407-0263   $60               
+Rachel, Bob              21012  Aspen             407-1639       $60               
+Rambach, Mr/Mrs          13701 Redbud             372-9904       $135              
+Raymond, Russel          3601 Eileen              630-552-3050   $200     X                      
+Reidy, Norma             21600 Larch              372-2448       $135              
+Reinke, Ann              20944 Spruce             293-0552       $60               
+Ribarchik, Andy          20813 Forsythia          372-9740       $60      X     X                
+Riccio, Rose             21451 Basswood           312-415-8849   $135              
+Rigsby, Mary             21513 Juniper            886-8559       $85      X                      
+Rollins, Margaret        13333 Red Cedar          886-5888       $135              
+Romano, Marianne         21146 Cypress                           $85               
+Rothbard, Pat            21265 Redwood            886-7162       $110              
+Rowe, Lillian            21038 Hazelnut           372-2064       $110     X     X                
+Rundle, Mary Ann         21352 Sycamore           293-5003       $135              
+Russel, Diane            21757 Empress            372-2764       $60               
+Rutlage, Carol           21353 Douglas            886-3290       $85               
+Ryan, Lillian            13516 Buckthorn          886-4954       $60      X                      
+Rysdon, Marie            21512 Basswood           372-1261       $135              
+Samulski, Carol          13329 red Cedar          815-886-0219   $85               
+Sanders, Barbera         21022 Snowberry          886-3539       $60               
+Santora, Ned             21128 Walnut             372-3204       $135              
+Schrader, Roger          13804 Ironwood           815-293-1225   $135              
+Schulz, Allan            20928 Snowberry          886-2957       $80      X     X                
+Schweihs, Ralph          13444 Silverleaf         407-1609       $135              
+Senn, Marlyn             21341 Conifer            886-1727       $60               
+Sharp, Carol             13732 Ironwood           372-9460       $85               
+Shiek, Mr./Mrs.          21335 Silktree           372-2223       $150              
+Short, Gordon            21055 Walnut             372-9168       $85      X     X      7:00 am   
+Shubic, John             21305 Douglas            886-8618       $60               
+Sinderson, Jean          20917 Snowberry          886-6810       $60               
+Singer, Beverly          21019 Snowberry Ct.      293-0244       $85               
+Smidth, Pearl            20833 Foxtail            372-3376       $135              
+Smith, Ruby              21162 walnut             815-372-1686   $110              
+Smith, Virginia          13750 Bristlecone        886-4434       $40               
+Smolke, Dorothy          21408 Douglas            815-407-0953   $60               
+Snow, Shirley            20959 Blossom            372-1987       $60      X     X                
+Solakiewicz, Geraldine   21552 Empress                           $85               
+Souta, Helen             21459 Bassswood          372-6520       $85               
+Stachon, Margaret        21305 Conifer            407-1336       $60               
+Stamp, Mr./Mrs.          13625 Redbud             372-0257       $85               
+Stazak, Judy             13706 Tamarack           293-2276       $110              
+Stenson, Mary            21557 Larch              407-1865       $165              
+Sterba, Elizabeth        21313 Douglas            886-8695       $85      X     X                
+Stewart, Patricia        13498 Mulberry           886-1883       $125    plastic   
+Storino, Rita            20939 Snowberry          886-6107       $65     porch  $ 1
+Stosur, Edward           16306 Crescent Lake Dr.  815-730-8190   $110              
+Streeter, Patricia       13305 Bayberry           293-1242       $60               
+Stuertz, Carol           20930 Spruce             886-9103       $135              
+Sublette, Barbera        21028 Snowberry          886-5981       $60               
+Sulky, Dorothy           21408 Douglas            407-0953       $60               
+Sumrall, Geraldine       21289 Silktree           815-372-2370   $150              
+Svoboda, Evelyn          21504 Empress            372-9166       $85               
+Swain, Dee               21011 Snowberry          293-1106       $60               
+Tabor, Judy              20928 Spruce             293-0668       $60     $15.00 for
+Talabar, Louise          21345 Douglas            886-4676       $40     Outside of
+Tampier, Dolores         21319 Crimson Court      372-1115       $60               
+Tapper, Alice            21313 Redwood            293-1108       $135              
+Terrance, Liz            21520 Empress            372-9497       $60               
+Tessler, Pat             21107 Braxton            815-372-1077   $60      X     X                
+Tisdall, Robert          21457 Larch              293-2325       $135     X     X                
+Tomany, Joan             21117 Buckeye            886-5645       $135              
+Tomczak, Helen           20832 Forsythia          815-372-2362   $60               
+Tribble, Eileen          13224 Bayberry           372-0677       $135              
+Tselepis, Bertha         20857 Chinaberry         407-1635       $85               
+Ulrich, Gladys           21324 Redwood            886-6849       $110              
+Van Koughnett, Jean      13477 Tall Pines         293-0511       $135              
+Van Peenen, Patricia     13461 Silverleaf Rd.     815-886-2555   $135              
+Vancura, Mr./Mrs.        21517 Juniper            372-2658       $60               
+Vandermolen, Muriel      21440 Sycamore           886-1982       $85               
+Vandewalle, Mr./Mrs.     21456 Chestnut           372-1389       $150              
+Vanhoegarden, Marilyn    14037 Tamarack           886-6926       $110              
+Vranesic, Mr./Mrs.       13416 Redberry           886-5077       $110              
+Wagemann, Mr./Mrs.       21625 Larch              407-1518       $135              
+Wahtelt, Paul            20817 Forsythia          886-4221       $85               
+Walser, Bette            16407 Montclare Lake Ct. 439-6906       $95               
+Walsh, Gloria            21306 Monterrey          815-293-2723   $135              
+Ward, Jane               3813 Squires mill Rd     254-3399       $200              
+Ward, John               13353 Red Cedar          886-9273       $135              
+Warrick, David           21314 Redwood            293-5004       $135              
+Wegler, Billy            13245 Bayberry           886-8505       $85               
+Wegner, Ingeborg         21557 empress            293-3296       $85               
+Wells, Cynthia           21334 Sycamore           886-1990       $135              
+Wenzel, Margaret         21152 Buckeye            293-3262       $60               
+Westrick, Howard         21316 Redwood            293-5243       $150              
+White, Barbara           16547 Serene Lake Way    730-8237       $135              
+White, Lydia             20925 Blossom            886-8912       $60               
+Wiarnowski, Ken          21643 Larch              372-9599       $85               
+Wierman, Norma           21222 Walnut             293-1093       $135    unit B    
+Wilkenson, Darlene       13738 Ironwood           372-1020       $135              
+Willeford, Mr./Mrs.      21123 Cypress            372-9910       $85               
+Witzke, Melanie          21353 Juniper            407-0959       $85      X     X                
+Wolfe, Carrie            26 W 393 Pinehurst       630-221-0897   $200              
+Wolfram, Dolores         13500 Buckthorn          886-9357       $85               
+Wolski, Valeria          13721 Redbud             886-6958       $85               
+Wooldridge, Phyllis      20924 Snowberry          372-0703       $60               
+Wozny, Cathy             21418 Douglas            886-1914       $60               
+Wroblewski, Ruth         13472 Magnolia           293-0963       $110              
+Young, Evelyn            21431 Sycamore           293-0079       $135              
+Young, Julia             21505 Basswood           407-1154       $110              
+Zacker, Mr./Mrs.         21514 Larch              407-0623       $135              
+Zeidler, Myrtle          13512 Buckthorn                         $85               

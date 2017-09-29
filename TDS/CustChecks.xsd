@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes" ?>
+<xs:schema id="CustChecks" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="CustChecks" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Customers">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CustomerID" type="xs:int" minOccurs="0" />
+							<xs:element name="LastName" type="xs:string" minOccurs="0" />
+							<xs:element name="FirstName" type="xs:string" minOccurs="0" />
+							<xs:element name="Addr1" type="xs:string" minOccurs="0" />
+							<xs:element name="City" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CheckLedger">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CustomerID" type="xs:int" minOccurs="0" />
+							<xs:element name="CheckNumber" type="xs:int" minOccurs="0" />
+							<xs:element name="CheckDate" type="xs:date" minOccurs="0" />
+							<xs:element name="Amount" type="xs:float" minOccurs="0" />
+							<xs:element name="InvoiceNumber" type="xs:int" minOccurs="0" />
+							<xs:element name="Comments" type="xs:string" minOccurs="0" />
+							<xs:element name="LedgerID" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:annotation>
+		<xs:appinfo>
+			<msdata:Relationship name="CustID" msdata:parent="Customers" msdata:child="CheckLedger" msdata:parentkey="CustomerID"
+				msdata:childkey="CustomerID" />
+		</xs:appinfo>
+	</xs:annotation>
+</xs:schema>

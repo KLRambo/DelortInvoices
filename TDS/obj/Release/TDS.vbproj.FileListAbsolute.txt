@@ -1,0 +1,10 @@
+C:\Kevin\DelortInvoices\TDS\bin\TDS.dll
+C:\Kevin\DelortInvoices\TDS\bin\TDS.xml
+C:\Kevin\DelortInvoices\TDS\obj\Release\ResolveAssemblyReference.cache
+C:\Kevin\DelortInvoices\TDS\obj\Release\TDS.dll
+C:\Kevin\DelortInvoices\TDS\obj\Release\TDS.xml
+C:\DelortInvoices\TDS\bin\TDS.dll
+C:\DelortInvoices\TDS\bin\TDS.xml
+C:\DelortInvoices\TDS\obj\Release\TDS.vbprojResolveAssemblyReference.cache
+C:\DelortInvoices\TDS\obj\Release\TDS.dll
+C:\DelortInvoices\TDS\obj\Release\TDS.xml

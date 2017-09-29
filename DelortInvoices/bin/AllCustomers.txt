@@ -1,0 +1,797 @@
+Name                     Address                  Phone          Price  Spring Fall   Notes               
+----                     -------                  -----          -----  ------ ----   -----
+
+Acton, Sara              13812 Ironwood           293-1205       $130     X            This perso
+
+Adams, Gladys            21013 Walnut             886-4083       $99            X      test      
+
+Ahern, Diane             20994 Olive              886-6693       $45      X     X      Testing   
+
+Alencik, Dedra           13915 Bristlecone        372-1877       $7       X                      
+
+Alicz, John              13229 Orchid             293-3105       $55      X                      
+
+Anderson, Dolores        13636 Redbud             293-0851                 
+
+Andreas, Betty           20921 Blossom            886-6848                 
+
+Avant, Pat               21429 Douglas            886-1446       $99            X                
+
+Avramovic, Lotte         21417 Sycamore           886-1723                 
+
+Bailey, Eleanor          21301 Juniper            372-1497                 
+
+Bambule, Jennifer        722 Howard               630-510-0737             
+
+Bambule, Jim             21634 Tamarack           407-1771                 
+
+Bambule, Patricia        13750 Bristlecone        407-0720                 
+
+Barry, Jim               13959 Tamarack           407-1013                 
+
+Barry, Ron               13751 Redbud             372-3756                 
+
+Bartos, Dolores          20916 Blossom            293-0977                 
+
+Basile, Ernie            755 Pentwater            436-2060                 
+
+Beaman, Gloria           13497 Tall Pines         372-0608                 
+
+Becker, Dorothy          21508 Chestnut           372-0255                 
+
+Belford, Joan            21429 Larch              372-0760                 
+
+Belokin, Marge           13906 Bristlecone        372-9003                 
+
+Belokin, Phyllis         21318 Crimson            372-1923                 
+
+Benes, Carmen            13485 Mulberry           886-1814                 
+
+Berbas, Therese          20947 Snowberry          886-6176                 
+
+Bieniek, Dolores         21315 Crimson            372-1984                 
+
+Bizer, Roland            21649 Larch              293-0821                 
+
+Blanchin, Marlene        21456 Larch              293-2109                 
+
+Blazor, Mr./Mrs.         867 Brompton                                      
+
+Bloom, Robin             20836 Periwinkle         886-5487                 
+
+Bogusz, Gene             21325 Crimson            372-1125                 
+
+Boswell, Mr./Mrs.        21421 Juniper            886-1950                 
+
+Boyce, Rose Ann          21414 Basswood           293-3060                 
+
+Bozman, Mr./Mrs.         21658 Tamarack           886-1580                 
+
+Bradshaw, Jackie         13833 Bristlecone        372-0442                 
+
+Briz, Mr./Mrs.           13913 Tamarack           886-3828                 
+
+Brown, Bobby             21131 Walnut             372-3331                 
+
+Bryan, Peggy             21111 Aspen              886-3271                 
+
+Brzozowski, Adolfina     13490 Magnolia           372-9522                 
+
+Buch, Dorothy            13848 Balsam                                      
+
+Budo, Mr./Mrs.           21457 Chestnut           293-2166                 
+
+Burns, Dolores           21405 Douglas            886-4883                 
+
+Butt, Hedda              21335 Silktree           372-2223                 
+
+Buttner, Anita           21050 Aspen              407-0532                 
+
+Bystry, Gloria           21162 Cypress            293-4812                 
+
+Calcin, Katy             13653 Redbud             886-0721                 
+
+Carey, Vivian            13307 Red Cedar          372-3473                 
+
+Carlson, Elaine          21111 Braxton            372-2409                 
+
+Carlson, Mr./Mrs.        21111 Braxton            372-2409                 
+
+Castillo, Elena          14013 Tamarack           372-1611                 
+
+Catena, Jean             21431 Juniper            372-0374                 
+
+Cesarano, Marcy          21221 Walnut             293-2464                 
+
+Chiletz, Diane           1613 Augusta             744-7233                 
+
+Chodor, Delores          13632 Redbud             886-3339                 
+
+Christenson, Mr./Mrs.    21136 Cypress            293-2809                 
+
+Cimachowicz, John        21229 Walnut             407-0301                 
+
+Clore, Constance         21501 Juniper            372-0636                 
+
+Cohrs, Dorothy           21108 Walnut             372-0608                 
+
+Colbert, Judy            21635 Tamarack           293-2068                 
+
+Costa, Joanne            20920 Snowberry          407-1985                 
+
+Cottrell, Joanne         21112 Buckeye            293-3449                 
+
+Crawford, Guinevere      21010 Hazelnut           886-6060                 
+
+Creslenzo, Sharon        13725 Tamarack           372-1945                 
+
+Cunningham, Tom          13833 Bristlecone        886-3921                 
+
+Curcio, Marlene          21611 Larch              407-1387                 
+
+Curtis, Beverly          13160 Carlisle           372-2666                 
+
+Cyza, Shirley            13639 Redbud             293-0993                 
+
+Damato, Barb             21511 Empress            372-9313                 
+
+Danis, Carol             20837 Periwinkle         372-2017                 
+
+Dauw, Lorraine           21320 Silktree           372-3239                 
+
+De Haan, Robert          21427 Basswood           293-3094                 
+
+Delany, Ernestine        21461 Juniper            372-0472                 
+
+Dennis, Helen            13825 Balsam             886-7892                 
+
+Derbas, Therese          20947 Snowberry                                   
+
+Desmeyer, Mary           21341 Juniper            293-2515                 
+
+Di Giovanni, Sharon      21357 Basswood           372-3376                 
+
+Dobbs, Barbara           13520 Buckthorn          886-9787                 
+
+Doddridge, Barbara       20836 Forsythia                                   
+
+Dommer, Rosemary         13241 Bayberry           372-0257                 
+
+Donar, Don               21107 Cypress            886-8788                 
+
+Donar, Don               21107 Cypress            886-8788                 
+
+Donnolen, Martha         13817 Magnolia           372-3092                 
+
+Doshen, Marty            21129 Buckeye            372-1872                 
+
+Douglas, John            21420 Sycamore           293-0619                 
+
+Downes, Mr./Mrs.         21452 Larch              293-1452                 
+
+Drew, Marie              21565 Empress            886-4756                 
+
+Dubbs, Rita              21419 Basswood           886-0115                 
+
+Duffy, Maggie            21020 Snowberry          886-5492                 
+
+Dunlap, Joan             21332 Redwood            372-9918                 
+
+Dvorak, Joan             20832 Chinaberry         372-9194                 
+
+Dykema, Beverly          21400 Juniper                                     
+
+Edwards, Joe             20905 Snowberry          293-4006                 
+
+Engelen, Penny           21310 Silktree           372-3145                 
+
+Falduto, Geri            21712 Empress            372-1904                 
+
+Farinella, Annette       13945 Rosemary           372-1850                 
+
+Fatima, Bob              21348 Silktree           886-1946       $45      X            test      
+
+Ferchen, Morry           21444 Larch              407-1448                 
+
+Ferrone, Marie           13427 Tall Pine          372-2792                 
+
+Fiedler, James           21023 Snowberry          293-0113                 
+
+Finlay, Jack             21016 Braxton            407-0037                 
+
+Finlay, James            14242 Napa Circle        886-4193                 
+
+Fiorini, Elaine          21301 Conifer            372-0185                 
+
+Fitzgerald, Mr./Mrs.     21322 Redwood            293-3738                 
+
+Floyd, Thomas            21317 Conifer            372-0025                 
+
+Fmolke, Dorothy          21408 Douglas            407-0953                 
+
+Foisy, Barb              13729 Magnolia           372-2116                 
+
+Fontana, Alice           21407 Sycamore           407-1933                 
+
+Forsberg, Margaret       13505 Butternut          886-8797                 
+
+Forsgren, Elaine         21517 Douglas            886-1343                 
+
+Forster, Mr./Mrs.        21106 Aspen              372-1258                 
+
+Franczyk, Marryann       21160 Cypress            372-9346                 
+
+Fuesz, Charles           13313 Red Cedar          886-5332                 
+
+Funk, Jim                13156 Carlisle           372-3832                 
+
+Furco, Joan              13800 Tamarack           372-3564                 
+
+Gaa, Mary Ann            21427 Sycamore           293-0471                 
+
+Gardner, Joan            21506 Basswood           886-1393                 
+
+Garrity, Jerry           20983 Olive              886-1746                 
+
+Gaston, Mr./Mrs.         21541 Chestnut           372-3938                 
+
+Gats, Jean               21105 Aspen              372-1216                 
+
+Gatto, Sandy             21509 Juniper            293-2466                 
+
+Gebe, Elizabeth          21151 Cypress            293-1803                 
+
+Geraghty, Donna          21017 Torrey Pines       886-8647                 
+
+Gerlach, Frances         13303 Red Cedar          372-3594                 
+
+Giczewski, Flo           13344 Bayberry           886-6148                 
+
+Gill, Melissa            21152 Cypress            407-1105                 
+
+Gill, Patricia           20836 Peppertree         372-3097                 
+
+Gliot, Esther            20918 Blossom                                     
+
+Goraleski, Leona         20908 Snowberry          372-3285                 
+
+Graeber, Joan            21450 Basswood           372-1908                 
+
+Grande, Barbera          13430 Magnolia           293-0154                 
+
+Greenberg, Florence      13225 Carlisle           293-3061                 
+
+Greenberg, Lillian       21508 Juniper            407-1254                 
+
+Groetzenbach, June       21215 Cypress            372-7154                 
+
+Guenther, Libbie         13165 Carlisle           886-5824                 
+
+Gustafson, Judy          21653 Tamarack           372-9937                 
+
+Haas, Renee              13816 Balsam             407-1683                 
+
+Hall, Marianne           21544 Larch              293-2779                 
+
+Hanly, Ed                21336 Douglas            293-0652                 
+
+Hart, Eileen             21321 Conifer            407-1473                 
+
+Havlick, Mr./Mrs.        13231 Orchid             886-4153                 
+
+Healy, Josephine         21337 Conifer            372-0015                 
+
+Hedin, Phyllis           13727 Redbud             372-3948                 
+
+Heffernan, Carol         21037 Aspen              293-3139                 
+
+Hegemann, Carol          21000 Redberry           886-1449                 
+
+Herbig, Joan             763 Baldwin              609-5007                 
+
+Hnaton, Jackie           21366 Juniper            372-1395                 
+
+Hofer, Diane             13229 Carlisle           293-3111                 
+
+Holpuch, Phyllis         21306 Crimson            293-3341                 
+
+Holtz, Barb              21444 Sycamore           886-6761                 
+
+Houdek, Marie            13865 Balsam             372-0858                 
+
+Hromadka, Mr./Mrs.       21062 Braxton            407-0857                 
+
+Iannone, Tony            21058 Walnut             347-7835                 
+
+Jankovsky, Anita         21132 Cypress            886-7922                 
+
+Jazdzewski, Mel          21119 Cypress            886-8692                 
+
+Jelen, Margaret          13319 Red Cedar                                   
+
+Jenitz, Lorili           13223 Orchid             886-2814                 
+
+Jensen, Colleen          21721 Empress            372-2204                 
+
+Jezek, Wilma             13157 Carlisle           372-9438                 
+
+Jodlowski, Ed            21344 Silktree           886-4557                 
+
+Johnson, Jan             21353 Douglas            886-3290                 
+
+Johnson, Marge           21512 Juniper            407-1256                 
+
+Johnson, Orry            21448 Larch              293-2149                 
+
+Joritz, Mr./Mrs.         21128 Braxton            407-0361                 
+
+Jorstad, Betty           20948 Spruce             886-8400                 
+
+Judge, Debra             6308 Ventura             577-6569                 
+
+Kabza, Elsie             21022 Braxton            407-0513                 
+
+Kanar, Marian            13919 Tamarack           372-0532                 
+
+Kany, Betty              21344 Douglas            293-1126                 
+
+Karas, Shirley           21154 Cypress            372-0593                 
+
+Kastrazak, Mel           13505 Buckthorn          886-3832                 
+
+Kawarski, Beverly        21416 Juniper                                     
+
+Kelly, Gloria            21430 Douglas            407-1764                 
+
+Kelly, Meredith          20927 Blossom            886-8953                 
+
+Keppner, Judith          21738 Empress                                     
+
+Kevin, Ramboski          Here                                              
+
+Kleinfelder, Gene        21521 Juniper            886-6325                 
+
+Kodman, Jerry            13513 Buckthorn          372-1129                 
+
+Kolasinski, Lorraine     20900 Chinaberry         886-6192                 
+
+Kopecky, Eileen          21102 Braxton                                     
+
+Kosiek, Carol            1273 Arbor               630-257-3308             
+
+Kosinski, Phyllis        21528 Empress            372-9004                 
+
+Kostka, Janice           21640 Empress            886-2784                 
+
+Kowalski, Joan           13223 Carlisle           886-2025                 
+
+Kozeluh, Shirley         21353 Sycamore           886-6904                 
+
+Kramer, Louise           21040 Snowberry          293-0455                 
+
+Krolo, Dolores           21435 Juniper            372-9356                 
+
+Kurek, Ann               13826 Tamarack           372-1187                 
+
+Lang, Dorothy            21411 Basswood           886-5475                 
+
+Larson, Audry            21117 Aspen              886-1720                 
+
+Larson, Grace            13442 Redberry           886-2760                 
+
+Larson, Jean             20934 Snowberry          372-9908                 
+
+Laue, Jeanne             21462 Larch              407-0350                 
+
+Lebeck, Dorothy          21556 Larch              293-2214                 
+
+Lef, Cheryl              21109 Cypress            886-8883                 
+
+Leggett, Ruth            21342 Sycamore           886-9580                 
+
+Lemeran, Sue             21318 Redwood            407-1135                 
+
+Lenz, Mr./Mrs.           13742 Magnolia           372-2134                 
+
+Leo, Virginia            21110 Braxton            886-9904                 
+
+Levy, Helen              21404 Douglas            886-3941                 
+
+Lietz, Mr./Mrs.          21119 Walnut             407-1990                 
+
+Ligas, Sophie            20751 Torrey Pines       293-3878                 
+
+Liotus, Sue              13412 Magnolia           372-3375                 
+
+Lisching, Ray            21051 Braxton            407-1895                 
+
+Lizinski, Joe            21533 Chestnut           372-3179                 
+
+Lo, Vicki                1135 Wishing Well        630-364-2129             
+
+Lodie, Lucy              21001 Redberry           372-3301                 
+
+Lord, Ruth               21137 Braxton            886-9330                 
+
+Lowrey, Neal             21513 Douglas            372-0790                 
+
+Lund, Dorene             13860 Mandarin           372-2023                 
+
+Mack, Pauline            13801 Bristlecone        407-1639                 
+
+Magnuson, Bob            21037 Snowberry          886-6317                 
+
+Maher, Joann             21025 Snowberry          886-9240                 
+
+Mahl, Mr./Mrs.           13473 Silver Leaf        886-5417                 
+
+Mahoney, Shirley         21060 Aspen              886-4565                 
+
+Malina, Frank            661 Bridgeman            609-7839                 
+
+Malloy, Jack             20911 Snowberry          293-3096                 
+
+Manna, Sandy             20825 Forsythia          407-0948                 
+
+Marianyi, Juan           21422 Douglas                                     
+
+Marimack, Marge          21362 Sycamore           886-2709                 
+
+Martin, Rob              21057 Braxton            372-3132                 
+
+Martinez, Ruth           13833 Balsam             293-3411                 
+
+Marzak, Joan             21420 Juniper            372-3290                 
+
+Mashek, Dorothy          21247 Silktree           372-9069                 
+
+Masten, Barbera          21526 Chestnnut          407-0617                 
+
+Mathews, Patricia        13756 Hickory            886-6942                 
+
+Matys, Dorothy           21049 Aspen              372-9917                 
+
+Mayhugh, Barbera         13906 Bristlecone        372-9407                 
+
+Mazur, Susan             1617 Augusta             725-1169                 
+
+McAllivy, Ann            13833 Balsam             293-3247                 
+
+McCarthy, Marie          21643 Empress            886-4572                 
+
+McGuire, Sue             21107 Walnut             407-0010                 
+
+McLaughlin, Ardeth       13647 Redbud             886-2516                 
+
+Meehan, Cary             2845 Thomas Hicky        436-7441                 
+
+Merkes, Maureen          21024 Braxton            372-2971                 
+
+Meyer, Eleanor           21014 Snowberry          372-9021                 
+
+Meyer, Mary              21346 Silktree           886-4007                 
+
+Mikosz, Gerry            20913 Snowberry          886-8768                 
+
+Milankowski, Rose        21509 Douglas            372-1613                 
+
+Miller, Eleanor          13709 Redbud             372-3779                 
+
+Mirabella, Mr./Mrs.      13240 Bayberry           372-0561                 
+
+Mlady, Joy               13913 Tamarack           886-2119                 
+
+Mokate, Arlene           21332 Douglas            293-1031                 
+
+Molek, Agnes             21505 Juniper            372-3802                 
+
+Monhart, Rosemary        21258 Redwood            372-3880                 
+
+Moore, Anne              21048 Aspen              372-9755                 
+
+Mosher, Jean             21530 Empress            293-3733                 
+
+Mosley, Dolores          21402 Basswood           293-0163                 
+
+Mroz, Loretta            13807 Mandarin           372-3212                 
+
+Mullen, Eileen           21300 Juniper            372-0597                 
+
+Mulrooney, Jenny         21511 Basswood           372-1221                 
+
+Munde, Barbera           13833 Bristlecone        372-7158                 
+
+Nelson, Pat              21637 Larch              372-1520                 
+
+Nicholas, Sally          21603 Larch              293-0342                 
+
+Niemiek, Rosemary        13225 Orchid             886-3361                 
+
+Nowicki, Maryann         21320 Conifer            293-0307                 
+
+Nuemann, Mr./Mrs.        21328 Juniper            372-1534                 
+
+O'Connor, Rosemary       21644 Empress            372-9582                 
+
+Oelrich, Linda           21330 Redwood                                     
+
+Ohse, Jeanne             20906 Snowberry          293-4912                 
+
+Osuch, Marie             21417 Douglas                                     
+
+Owens, Margaret          21024 Braxton            372-2971                 
+
+Paaune, Jim              16421 Crescent Lake      207-4456                 
+
+Pabst, Russel            21619 Larch              372-0992                 
+
+Paketuris, Jenny         12247 Sumner             630-243-6340             
+
+Paloucek, Judy           13922 Bristlecone        886-8710                 
+
+Paolini, Theresa         20828 Foxtail            372-2241                 
+
+Papp, Mary               13513 Magnolia           293-4816                 
+
+Pastern, Diane           20932 Snowberry          293-0389                 
+
+Paul, Phyllis            21519 Chestnut           372-1468                 
+
+Pecora, Beverly          21027 Torrey Pines       372-2671                 
+
+Pennington, Barbera      21537 Empress            372-3499                 
+
+Pesole, Joseph           14007 Tamarack           372-0733                 
+
+Petratitis, Henrieta     21137 Cypress                                     
+
+Phebus, Mr./Mrs.         21302 Redwood            372-9226                 
+
+Phillips, Jean           21325 Conifer            372-0501                 
+
+Pickett, Jean            317 National             729-9373                 
+
+Pieczynski, Carol        20810 Chinaberry         293-2588                 
+
+Pietryga, Lucy           2472 Autumn Grove        630-851-0381             
+
+Pietryga, Mr./Mrs.       1593 Luddington          577-8175                 
+
+Pinta, Dennis            13508 Redberry           886-9631                 
+
+Prassa, Louise           21257 Crimson            372-0035                 
+
+Predovich, Kathy         21538 Chestnut           372-1426                 
+
+Princell, Mr./Mrs.       13228 Carlisle           886-8958                 
+
+Provenzano, Mr./Mrs.     13843 Mandarin           372-2342                 
+
+Ptak, Lucille            21443 Larch              407-1535                 
+
+Pusateri, Josaphine      21540 Empress            372-9255                 
+
+Putlak, Emily            21034 Snowberry          886-8827                 
+
+Quinn, Arlene            13309 Red Cedar          886-1622                 
+
+Ramacciotti, Lucille     21309 Conifer            886-5299                 
+
+Rambach, Mr./Mrs.        13701 Redbud             372-9904                 
+
+Rambine, Calvin          504 Here                                $16      X                      
+
+Rambo, Connie            Here                                              
+
+Rambo, Connies           504 Valley Drive         217-721-4715   TEST      
+
+Rambo, Goldie            504 valley drive                        $65            X                
+
+Rambo, Hannah            504 Valley Drive                        $100     X     X                
+
+Rambo, Kevin             504 Valley Drive                                  
+
+Rambo, Lexus             504 Valley Drive         217-721-4715   Testing   
+
+Rambo, Sammy             504 Valley Drive                                  
+
+Rambolee, Kebin          here                                    $56      X                      
+
+Rambolski, Kelvin        01-2007                                           
+
+Ramboski, Kelvin         504 Valley Drive                                  
+
+Raymond, Russel          3601 Eileen              630-552-3050             
+
+Regan, Rita              20829 Peppertree         372-2228                 
+
+Reidy, Norma             21600 Larch              372-2448                 
+
+Reinke, Ann              20944 Spruce             293-0552                 
+
+Ribarchik, Andy          20813 Forsythia          372-9740                 
+
+Rigsby, Mary             21513 Juniper            886-8559                 
+
+Rothbard, Pat            21265 Redwood            886-7162                 
+
+Rowe, Mr./Mrs.           21038 Hazelnut           372-2064                 
+
+Rutkowski, Theresa       13826 Bristlecone        293-3132                 
+
+Rutlage, Carol           21353 Douglas            886-3290                 
+
+Ryan, Lillian            13516 Buckthorn          886-4954                 
+
+Rysdon, Marie            21512 Basswood           372-1261                 
+
+Sanders, Trudy           13418 Redberry           886-1592                 
+
+Schulz, Allan            20928 Snowberry          886-2957                 
+
+Schulze, Janice          21713 Empress                                     
+
+Schweihs, Ralph          13444 Silverleaf         407-1609                 
+
+Schwiesow, Lois          21640 Tamarack           372-3883                 
+
+Sewell, Ralph            20806 Torrey Pines       372-9861                 
+
+Shap, Donald             13749 Hickory            293-2190                 
+
+Sharp, Carol             13732 Ironwood           372-9460                 
+
+Sharry, Dorothy          13334 Red Cedar          886-4867                 
+
+Sherpan, Norman          13800 Mandarin           372-3229                 
+
+Shiek, Mr./Mrs.          21335 Silktree           372-2223                 
+
+Shisler, Judy            21723 Empress            372-9085                 
+
+Shoen, Debbie            53 Coral Bell            293-3412                 
+
+Short, Gordon            21055 Walnut             372-9168                 
+
+Sinderson, Jean          20117 Snowberry          886-6810                 
+
+Smidth, Pearl            20833 Foxtail            372-3376                 
+
+Snow, Shirley            20959 Blossom            372-1987                 
+
+Solakiewicz, Geraldine   21552 Empress                                     
+
+Souta, Helen             21459 Bassswood          372-6520                 
+
+Stachon, Margaret        21305 Conifer            407-1336                 
+
+Stamp, Mr./Mrs.          13625 Redbud             372-0257                 
+
+Stazak, Judy             13706 Tamarack           293-2276                 
+
+Stein, Lois              13404 Tall Pines         886-4645                 
+
+Stenson, Mary            21557 Larch              407-1865                 
+
+Sterba, Elizabeth        21313 Douglas            886-8695                 
+
+Stevenson, Valerie       13735 Magnolia           372-2060                 
+
+Storino, Rita            20939 Snowberry          886-6107                 
+
+Stryzak, Ed              21440 Larch              407-0344                 
+
+Stuertz, Carol           20930 Spruce             886-9103                 
+
+Sublette, Barbera        21028 Snowberry          886-5981                 
+
+Sulky, Dorothy           21408 Douglas            407-0953                 
+
+Sullivan, Margaret       21552 Pappoose Lake      609-5521                 
+
+Svoboda, Evelyn          21504 Empress            372-9166                 
+
+Swain, Dee               21011 Snowberry          293-1106                 
+
+Tabor, Judy              20928 Spruce             293-0668                 
+
+Talabar, Louise          21345 Douglas            886-4676                 
+
+Terrance, Liz            21520 Empress            372-9497                 
+
+Test, Test               HERE                                    $56      X     X                
+
+Thomas, Betty            21138 Cypress            886-8980                 
+
+Tisdall, Robert          21457 Larch              293-2325                 
+
+Tomany, Joan             21117 Buckeye            886-5645                 
+
+Travnick, Laverne        13711 Redbud             886-5734                 
+
+Trojaniac, Rita          13405 Tall Pines         886-5644                 
+
+Tselepis, Bertha         20857 Chinaberry         407-1635                 
+
+Ulrich, Gladys           21324 Redwood            886-6849                 
+
+Van Koughnett, Jean      13477 Tall Pines         293-0511                 
+
+Vancura, Mr./Mrs.        21517 Juniper            372-2658                 
+
+VanDermolen, Muriel      21440 Sycamore           886-1982                 
+
+VanDeWalle, Mr./Mrs.     21456 Chestnut           372-1389                 
+
+Vangerpen, Mr./Mrs.      21328 Redwood            886-8686                 
+
+VanHoeGarden, Marilyn    14037 Tamarack           886-6926                 
+
+Voight, Janet            13352 Bayberry           407-1787                 
+
+Vorel, Robert            21426 Douglas            886-6476                 
+
+Vranesic, Mr./Mrs.       13416 Redberry           886-5077                 
+
+Wagemann, Mr./Mrs.       21625 Larch              407-1518                 
+
+Wahtelt, Paul            20817 Forsythia          886-4221                 
+
+Walsh, Jo Ellen          13849 Bristlecone        886-0682                 
+
+Walski, Valerie          13721 Redbud             886-6958                 
+
+Wanka, Marilyn           21408 Sycamore           886-6766                 
+
+Ward, John               13353 Red Cedar          886-9273                 
+
+Warrick, David           21314 Redwood            293-5004                 
+
+Wegler, Billy            13245 Bayberry           886-8505                 
+
+Wegner, Erma             21224 Silktree           886-1676                 
+
+Weis, Kristine           2667 Canyon              630-364-8670             
+
+Wells, Cynthia           21334 Sycamore           886-1990                 
+
+Wells, Willie            21261 Redwood            293-3212                 
+
+Wenzec, Margaret         21152 Buckeye            293-3262                 
+
+Westrick, Howard         21316 Redwood            293-5243                 
+
+Wetmore, Janice          21029 Torrey Pines       372-0911                 
+
+Whately, Helen           20817 Forsythia          886-4221                 
+
+White, Lydia             20925 Blossom            886-8912                 
+
+Wiarnowski, Ken          21643 Larch              372-9599                 
+
+Wierman, Norma           21222 Walnut             293-1093                 
+
+Wilkenson, Darlene       13738 Ironwood           372-1020                 
+
+Willeford, Mr./Mrs.      21123 Cypress            372-9910                 
+
+Witzke, Melanie          21353 Juniper            407-0959                 
+
+Wolfe, Carrie            26 W 393 Pinehurst       630-221-0897             
+
+Wolfram, Dolores         13500 Buckthorn          886-9357                 
+
+Wooldridge, Phyllis      20924 Snowberry          372-0703                 
+
+Wozny, Cathy             21418 Douglas            886-1914                 
+
+Wroblewski, Ruth         13472 Magnolia           293-0963                 
+
+Young, Evelyn            21431 Sycamore           293-0079                 
+
+Young, Julia             21505 Basswood           407-1154                 
+
+Zacker, Mr./Mrs.         21514 Larch              407-0623                 
+
+Zeidler, Myrtle          13512 Buckthorn                                   
+

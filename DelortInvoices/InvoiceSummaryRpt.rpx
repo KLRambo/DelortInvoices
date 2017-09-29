@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="10890" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="InvoiceSummaryRpt.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="PageHeader" Name="PageHeader" Height="1140" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblPageHeader" MOD="4" Left="3600" Top="90" Width="4500" Height="450" Caption="Monthly Invoice Report" Style="font-size: 14.25pt; font-family: Verdana; " />
+    </Section>
+    <Section Type="Detail" Name="Detail" Height="9765" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtDetails" DataField="DetailInfo" MOD="4" Left="90" Top="90" Width="10170" Height="9360" Text="TextBox1" Style="font-size: 9pt; font-family: Verdana; " />
+    </Section>
+    <Section Type="PageFooter" Name="PageFooter" Height="900" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="lblNumOfInv" MOD="4" Left="180" Top="180" Width="1350" Height="288" Caption="Total Invoices:" />
+      <Control Type="AR.Field" Name="txtNoOfInv" DataField="NUmOfInv" MOD="4" Left="1620" Top="180" Width="630" Height="288" Text="" OutputFormat="" />
+      <Control Type="AR.Label" Name="lblLaborSTotal" MOD="4" Left="2520" Top="180" Width="1170" Height="288" Caption="Total Labor:" />
+      <Control Type="AR.Field" Name="txtLaborTotal" DataField="TotalLabor" MOD="4" Left="3780" Top="180" Width="1170" Height="288" Text="" OutputFormat="$#,##0.00" />
+      <Control Type="AR.Field" Name="txtMaterials" DataField="TotalMat" MOD="4" Left="6817.5" Top="180" Width="1296" Height="288" Text="" OutputFormat="$#,##0.00" />
+      <Control Type="AR.Label" Name="lblTotalMat" MOD="4" Left="5152.5" Top="180" Width="1552.5" Height="288" Caption="Total Materials:" />
+      <Control Type="AR.Field" Name="txtGrandTotal" DataField="GrandTotal" MOD="4" Left="9180" Top="180" Width="1440" Height="288" Text="" OutputFormat="$#,##0.00" />
+      <Control Type="AR.Label" Name="lblTotal" MOD="4" Left="8190" Top="180" Width="810" Height="288" Caption="Total:" />
+      <Control Type="AR.Shape" Name="Shape1" MOD="4" Left="112.5" Top="90" Width="10620" Height="450" BackColor="16777215" />
+    </Section>
+  </Sections>
+  <PageSettings LeftMargin="432" RightMargin="432" TopMargin="720" BottomMargin="720" />
+</ActiveReportsLayout>

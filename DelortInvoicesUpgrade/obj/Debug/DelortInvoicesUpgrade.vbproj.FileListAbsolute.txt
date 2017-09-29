@@ -1,0 +1,9 @@
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\bin\Debug\DelortInvoicesUpgrade.exe.config
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\bin\Debug\DelortInvoicesUpgrade.exe
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\bin\Debug\DelortInvoicesUpgrade.pdb
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\bin\Debug\DelortInvoicesUpgrade.xml
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\obj\Debug\DelortInvoicesUpgrade.Resources.resources
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\obj\Debug\DelortInvoicesUpgrade.vbproj.GenerateResource.Cache
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\obj\Debug\DelortInvoicesUpgrade.exe
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\obj\Debug\DelortInvoicesUpgrade.xml
+c:\DelortInvoicesUpgrade\DelortInvoicesUpgrade\obj\Debug\DelortInvoicesUpgrade.pdb

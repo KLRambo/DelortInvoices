@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{50D074E5-2B15-4B95-A2C7-6AD82A63E7D9}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon />
+    <AssemblyKeyContainerName />
+    <AssemblyName>DelortInvoices</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>On</OptionStrict>
+    <RootNamespace>DelortInvoices</RootNamespace>
+    <StartupObject />
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>DelortInvoices.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>DelortInvoices.xml</DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile />
+    <DefineConstants />
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Infragistics2.Win.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinMaskedEdit.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinListBar.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <Reference Include="Infragistics2.Shared.v10.3, Version=10.3.20103.1000, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL" />
+    <ProjectReference Include="..\AccessUtils\AccessUtils.vbproj">
+      <Name>AccessUtils</Name>
+      <Project>{A0BDE56D-0992-4331-B05E-41C4BAD51E9C}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\DelortBusObjects\DelortBusObjects.vbproj">
+      <Name>DelortBusObjects</Name>
+      <Project>{D1AC8A8A-3846-439F-913A-6CE9C160B905}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\Errhandler\Errhandler.vbproj">
+      <Name>Errhandler</Name>
+      <Project>{D712D077-57E1-4A48-859B-A0F189632A5D}</Project>
+      <Package>{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</Package>
+    </ProjectReference>
+    <ProjectReference Include="..\TDS\TDS.vbproj">
+      <Project>{8725987D-64FA-43A7-B20B-10C06E19472C}</Project>
+      <Name>TDS</Name>
+    </ProjectReference>
+    <Reference Include="ActiveReports">
+      <Name>ActiveReports</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Data Dynamics\ActiveReports for .NET\ActiveReports.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="ActiveReports.Viewer">
+      <Name>ActiveReports.Viewer</Name>
+      <HintPath>..\..\..\Program Files\Common Files\Data Dynamics\ActiveReports for .NET\ActiveReports.Viewer.dll</HintPath>
+      <AssemblyFolderKey>hklm\dn\activereports for .net</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ConfigSettings.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddEditCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBaseWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategoriesEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerInvoices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCustomerReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeletedCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditMiscCat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditNote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFindOneCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInvAdvancedSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInvoiceSummaryRpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMatAdvSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaterialsDataEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMiscExpAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMiscExpAdvSrch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMiscExpRpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOpenOneInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintCustomers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintOneInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewChecks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewInvoices.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewMaterials.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewNotes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWindowPrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWindowsCustomersReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlobalExceptionHandler.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Invoice.vb">
+      <DependentUpon>Invoice.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="InvoicePrintrvw.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InvoicesDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InvoicesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InvoiceSummaryRpt.vb">
+      <DependentUpon>InvoiceSummaryRpt.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialRpt1.vb">
+      <DependentUpon>MaterialRpt.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="MaterialRptDS.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MaterialRptDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialRptDS.vb">
+      <DependentUpon>MaterialRptDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialsRpt.Designer.vb">
+      <DependentUpon>MaterialsRpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MaterialsRpt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MatRptDates.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MatRptDates.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="mMain.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCustomers.vb">
+      <DependentUpon>PrintCustomers.rpx</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Splash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddEditCustomer.resx">
+      <DependentUpon>frmAddEditCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBaseWindow.resx">
+      <DependentUpon>frmBaseWindow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategoriesEdit.resx">
+      <DependentUpon>frmCategoriesEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerInvoices.resx">
+      <DependentUpon>frmCustomerInvoices.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCustomerReport.resx">
+      <DependentUpon>frmCustomerReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeletedCustomers.resx">
+      <DependentUpon>frmDeletedCustomers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditInvoice.resx">
+      <DependentUpon>frmEditInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditMiscCat.resx">
+      <DependentUpon>frmEditMiscCat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditNote.resx">
+      <DependentUpon>frmEditNote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFindOneCustomer.resx">
+      <DependentUpon>frmFindOneCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInvAdvancedSearch.resx">
+      <DependentUpon>frmInvAdvancedSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInvoiceSummaryRpt.resx">
+      <DependentUpon>frmInvoiceSummaryRpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMatAdvSearch.resx">
+      <DependentUpon>frmMatAdvSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaterialsDataEntry.resx">
+      <DependentUpon>frmMaterialsDataEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMiscExpAdd.resx">
+      <DependentUpon>frmMiscExpAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMiscExpAdvSrch.resx">
+      <DependentUpon>FrmMiscExpAdvSrch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMiscExpRpt.resx">
+      <DependentUpon>frmMiscExpRpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotes.resx">
+      <DependentUpon>frmNotes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOpenOneInvoice.resx">
+      <DependentUpon>frmOpenOneInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintCustomers.resx">
+      <DependentUpon>frmPrintCustomers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintOneInvoice.resx">
+      <DependentUpon>frmPrintOneInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewChecks.resx">
+      <DependentUpon>frmViewChecks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewInvoices.resx">
+      <DependentUpon>frmViewInvoices.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewMaterials.resx">
+      <DependentUpon>frmViewMaterials.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewNotes.resx">
+      <DependentUpon>frmViewNotes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWindowPrice.resx">
+      <DependentUpon>frmWindowPrice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWindowsCustomersReport.resx">
+      <DependentUpon>frmWindowsCustomersReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.rpx">
+      <Generator>ARVSPackage.VBCodeGenerator</Generator>
+      <LastGenOutput>Invoice.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InvoicePrintrvw.resx">
+      <DependentUpon>InvoicePrintrvw.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InvoiceSummaryRpt.rpx">
+      <Generator>ARVSPackage.VBCodeGenerator</Generator>
+      <LastGenOutput>InvoiceSummaryRpt.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaterialRpt.rpx">
+      <Generator>ARVSPackage.VBCodeGenerator</Generator>
+      <LastGenOutput>MaterialRpt1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaterialsRpt.rdlc" />
+    <EmbeddedResource Include="MaterialsRpt.resx">
+      <DependentUpon>MaterialsRpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintCustomers.rpx">
+      <Generator>ARVSPackage.VBCodeGenerator</Generator>
+      <LastGenOutput>PrintCustomers.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="InvoicesDataSet.xsc">
+      <DependentUpon>InvoicesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InvoicesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InvoicesDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InvoicesDataSet.xss">
+      <DependentUpon>InvoicesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MaterialRptDS.xsc">
+      <DependentUpon>MaterialRptDS.xsd</DependentUpon>
+    </None>
+    <None Include="MaterialRptDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MaterialRptDS.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="MaterialRptDS.xss">
+      <DependentUpon>MaterialRptDS.xsd</DependentUpon>
+    </None>
+    <None Include="MatRptDates.xsc">
+      <DependentUpon>MatRptDates.xsd</DependentUpon>
+    </None>
+    <None Include="MatRptDates.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MatRptDates.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="MatRptDates.xss">
+      <DependentUpon>MatRptDates.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\DataSources\MatRptDates.datasource" />
+    <None Include="My Project\Settings.settings">
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>

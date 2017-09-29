@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="InvoicesDataSet" targetNamespace="http://tempuri.org/InvoicesDataSet.xsd" xmlns:mstns="http://tempuri.org/InvoicesDataSet.xsd" xmlns="http://tempuri.org/InvoicesDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="InvoicesConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="InvoicesConnectionString (MySettings)" PropertyReference="ApplicationSettings.DelortInvoices.My.MySettings.GlobalReference.Default.InvoicesConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MaterialsTableAdapter" GeneratorDataComponentClassName="MaterialsTableAdapter" Name="Materials" UserDataComponentName="MaterialsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="InvoicesConnectionString (MySettings)" DbObjectName="" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT     DatePurchased, MaterialDesc, MaterialCost
+ FROM         Materials
+WHERE     DatePurchased BETWEEN @ FromDate AND @ ToDate</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DatePurchased" DataSetColumn="DatePurchased" />
+              <Mapping SourceColumn="MaterialDesc" DataSetColumn="MaterialDesc" />
+              <Mapping SourceColumn="MaterialCost" DataSetColumn="MaterialCost" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="InvoicesDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="InvoicesDataSet" msprop:Generator_UserDSName="InvoicesDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Materials" msprop:Generator_TableClassName="MaterialsDataTable" msprop:Generator_TableVarName="tableMaterials" msprop:Generator_TablePropName="Materials" msprop:Generator_RowDeletingName="MaterialsRowDeleting" msprop:Generator_UserTableName="Materials" msprop:Generator_RowChangingName="MaterialsRowChanging" msprop:Generator_RowEvHandlerName="MaterialsRowChangeEventHandler" msprop:Generator_RowDeletedName="MaterialsRowDeleted" msprop:Generator_RowEvArgName="MaterialsRowChangeEvent" msprop:Generator_RowChangedName="MaterialsRowChanged" msprop:Generator_RowClassName="MaterialsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DatePurchased" msprop:Generator_ColumnVarNameInTable="columnDatePurchased" msprop:Generator_ColumnPropNameInRow="DatePurchased" msprop:Generator_ColumnPropNameInTable="DatePurchasedColumn" msprop:Generator_UserColumnName="DatePurchased" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="MaterialDesc" msprop:Generator_ColumnVarNameInTable="columnMaterialDesc" msprop:Generator_ColumnPropNameInRow="MaterialDesc" msprop:Generator_ColumnPropNameInTable="MaterialDescColumn" msprop:Generator_UserColumnName="MaterialDesc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaterialCost" msprop:Generator_ColumnVarNameInTable="columnMaterialCost" msprop:Generator_ColumnPropNameInRow="MaterialCost" msprop:Generator_ColumnPropNameInTable="MaterialCostColumn" msprop:Generator_UserColumnName="MaterialCost" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

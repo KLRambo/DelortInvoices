@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9975" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="MaterialRpt1.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="ReportHeader" Name="ReportHeader" Height="15" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageHeader" Name="PageHeader" Height="1920" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label1" DataField="Header" MOD="4" Left="3082.5" Top="135" Width="4320" Height="405" Caption="" Style="text-align: center; font-size: 14pt; " />
+      <Control Type="AR.Field" Name="TextBox1" MOD="4" Left="8340" Top="270" Width="360" Height="288" Text="" SummaryType="4" SummaryRunning="2" />
+      <Control Type="AR.Label" Name="Label2" MOD="4" Left="2137.5" Top="1530" Width="1282.5" Height="288" Caption="Month" Style="text-decoration: underline; font-weight: bold; font-size: 11pt; " />
+      <Control Type="AR.Label" Name="Label3" MOD="4" Left="4837.5" Top="1530" Width="1530" Height="288" Caption="Monthly Total" Style="text-decoration: underline; font-weight: bold; font-size: 11pt; " />
+      <Control Type="AR.Label" Name="Label5" MOD="4" Left="7717.5" Top="270" Width="540" Height="288" Caption="Page" />
+      <Control Type="AR.Label" Name="Label6" MOD="4" Left="8726.25" Top="270" Width="360" Height="288" Caption="of" />
+      <Control Type="AR.Field" Name="TextBox2" MOD="4" Left="9112.5" Top="270" Width="360" Height="288" Text="" SummaryType="4" />
+      <Control Type="AR.Field" Name="txtdte" DataField="CurrentDate" MOD="4" Left="180" Top="90" Width="2340" Height="450" Text="" Style="ddo-char-set: 1; font-size: 11pt; " />
+    </Section>
+    <Section Type="GroupHeader" Name="GroupHeader1" Height="0" BackColor="16777215" CanShrink="0" />
+    <Section Type="Detail" Name="Detail" Height="1019" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Field" Name="txtDate" DataField="MonthName" MOD="4" Left="2137.5" Top="180" Width="1732.5" Height="270" Text="" OutputFormat="" />
+      <Control Type="AR.Field" Name="txtDesc" DataField="Total" MOD="4" Left="4950" Top="180" Width="1980" Height="270" Text="" OutputFormat="$#,##0.00" />
+      <Control Type="AR.Line" Name="Line1" MOD="4" X1="90" Y1="900" X2="9540" Y2="900" LineStyle="3" />
+    </Section>
+    <Section Type="GroupFooter" Name="GroupFooter1" Height="135" BackColor="16777215" CanShrink="0" />
+    <Section Type="PageFooter" Name="PageFooter" Height="270" BackColor="16777215" CanShrink="0" />
+    <Section Type="ReportFooter" Name="ReportFooter" Height="720" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.Label" Name="Label8" MOD="4" Left="6660" Top="180" Width="1417.5" Height="288" Caption="Grand Total:" Style="text-decoration: underline; font-weight: bold; font-size: 11pt; " />
+      <Control Type="AR.Field" Name="txtGrandTotal" DataField="GrandTotal" MOD="4" Left="8280" Top="180" Width="1440" Height="288" Text="" OutputFormat="$#,##0.00" />
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>
